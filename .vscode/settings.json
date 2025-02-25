@@ -1,0 +1,12 @@
+{
+    "git.verboseCommit": true,
+    "git.blame.editorDecoration.enabled": true,
+    "diffEditor.hideUnchangedRegions.enabled": true,
+    "editor.experimentalEditContextEnabled": true,
+    "editor.inlineSuggest.syntaxHighlightingEnabled": true,
+    "scm.workingSets.enabled": true,
+    "workbench.editor.limit.enabled": true,
+    "workbench.experimental.cloudChanges.partialMatches.enabled": true,
+    "workbench.experimental.share.enabled": true,
+    "explorer.excludeGitIgnore": true
+}
